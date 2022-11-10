@@ -19,7 +19,8 @@
 			"utility": "cpp",
 			"xstring": "cpp",
 			"initializer_list": "cpp",
-			"xtree": "cpp"
+			"xtree": "cpp",
+			"set": "cpp"
 		}
 	}
 }
