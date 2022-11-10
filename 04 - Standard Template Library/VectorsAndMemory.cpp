@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector> //a resizable array
+#include <vector> 
 using namespace std;
 
 

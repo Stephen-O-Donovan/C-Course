@@ -10,7 +10,16 @@
 			"exception": "cpp",
 			"fstream": "cpp",
 			"ostream": "cpp",
-			"vector": "cpp"
+			"vector": "cpp",
+			"list": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xutility": "cpp",
+			"map": "cpp",
+			"utility": "cpp",
+			"xstring": "cpp",
+			"initializer_list": "cpp",
+			"xtree": "cpp"
 		}
 	}
 }
